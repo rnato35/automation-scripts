@@ -1,0 +1,24 @@
+# Python Virtual Environment (any subdirectory)
+**/.venv/
+**/venv/
+**/env/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/*.pyc
+
+# Generated reports and outputs
+**/ec2_audit_*/
+
+# OS
+.DS_Store
+Thumbs.db
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+**/.vscode/
+**/.idea/
